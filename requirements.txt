@@ -1,1 +1,6 @@
-streamlitpandasmatplotlibnamesnumpy
+streamlit
+pandas
+matplotlib
+names
+numpy
+openpyxl
