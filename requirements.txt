@@ -4,3 +4,4 @@ matplotlib
 names
 numpy
 openpyxl
+tqdm
